@@ -1,5 +1,5 @@
 # dsh-mobile-css
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) [![license](https://img.shields.io/github/license/ook826092-cloud/dsh-mobile-css?style=flat-square)](LICENSE) [![stars](https://img.shields.io/github/stars/ook826092-cloud/dsh-mobile-css?style=flat-square)](https://github.com/ook826092-cloud/dsh-mobile-css) [![dsh-plugin](https://img.shields.io/badge/dsh--plugin-%E5%AE%98%E6%96%B9%E6%94%B6%E5%BD%95-4B32C3?style=flat-square)](https://github.com/topics/dsh-plugin)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) [![license](https://img.shields.io/github/license/ook826092-cloud/dsh-mobile-css?style=flat-square)](LICENSE) [![stars](https://img.shields.io/github/stars/ook826092-cloud/dsh-mobile-css?style=flat-square)](https://github.com/ook826092-cloud/dsh-mobile-css) [![awesome · DSH plugin](https://awesome-dsh-plugin.com/badge.svg)](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)
 
 **DeepSeek Harness（DSH）Web UI 移动端适配插件** —— 让你的 DSH 在手机上真正好用起来！
 
