@@ -2,7 +2,7 @@
 
 **DeepSeek Harness（DSH）Web UI 移动端适配插件** —— 让你的 DSH 在手机上真正好用起来！
 
-[English](README.md) | [GitHub](https://github.com/ook826092-cloud/dsh-mobile-css)
+[English](README.en.md) | [GitHub](https://github.com/ook826092-cloud/dsh-mobile-css)
 
 > 纯 CSS 注入 + 两个轻量辅助脚本，**零依赖、零源码修改、随时可卸载**。
 > 通过官方 `WebServer.tapIndex()` 钩子注入，桌面端完全不受影响。
