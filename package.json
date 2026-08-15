@@ -1,0 +1,26 @@
+{
+  "name": "dsh-mobile-css",
+  "version": "1.0.0",
+  "description": "Mobile adaptation for the DeepSeek Harness Web UI: compact typography, drawer sidebar, two-page settings, responsive tables and stats, safe touch targets. Pure CSS injection, no source modification.",
+  "type": "module",
+  "main": "lib/index.js",
+  "files": [
+    "lib",
+    "cordis.patch.yml"
+  ],
+  "keywords": [
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "web-ui",
+    "mobile",
+    "responsive",
+    "deepseek"
+  ],
+  "license": "MIT",
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  }
+}
